@@ -1,5 +1,5 @@
 주현욱~~#---------------------------------------------------
-힘내자!
+힘내자! 감사합니다
 # 조작 편의성을 위해 열이름을 소문자로 변환 (결과 출력하지 않음)
 colnames(customer_r) <- tolower(colnames(customer_r))   
 colnames(reservation_r) <- tolower(colnames(reservation_r))
